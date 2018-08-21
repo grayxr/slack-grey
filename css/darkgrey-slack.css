@@ -9,7 +9,10 @@
  * Tested and working on Slack 3.1.1, Debian GNU/Linux 9.
  */
 
-body { background: #272822; color: #75715E; }
+body { 
+  background: #272822 !important; 
+  color: #75715E !important; 
+}
 
 /* Regular body text */
 a { color: #597BAC; }
